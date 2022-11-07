@@ -2,6 +2,9 @@
 
 In this activity, you will work with a group to build a game using only JavaScript.
 
+## Deployed Application
+[Rock, Paper, Scissors](https://mxu4321.github.io/module3_mini_project/)
+
 ## Instructions
 
 The completed application should meet the following criteria:
